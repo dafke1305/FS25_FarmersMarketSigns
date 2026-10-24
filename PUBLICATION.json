@@ -1,9 +1,16 @@
 {
-  "role": "public-support-only",
-  "mod": "Farmers Market Signs",
-  "kingmods_url": "https://www.kingmods.net/en/fs25/mods/82739/farmers-market-signs",
-  "kingmods_listed_version": "V1.0.0.0",
-  "checked": "2026-10-24",
-  "source_code_visibility": "private",
-  "contains_mod_source": false
+  "name": "Farmers Market Signs",
+  "repository": "dafke1305/FS25_FarmersMarketSigns",
+  "native_version": "1.0.0.0",
+  "tag": "v1.0.0.0",
+  "file": "FS25_FarmersMarketSigns.zip",
+  "sha256": "12a028a33a9726218dba1563816e8e84bce4b5fd8f637c9272b8d46ff4a75914",
+  "bytes": 44554282,
+  "kingmods": "https://www.kingmods.net/en/fs25/mods/82739/farmers-market-signs",
+  "crc": "passed",
+  "source_changes": "none",
+  "prerelease": false,
+  "policy": "support and public release ZIPs of versions already on KingMods only",
+  "source": "author local release archive",
+  "download": "https://github.com/dafke1305/FS25_FarmersMarketSigns/releases/download/v1.0.0.0/FS25_FarmersMarketSigns.zip"
 }
